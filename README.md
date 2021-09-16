@@ -46,5 +46,5 @@
 [<img src="https://user-images.githubusercontent.com/9213496/100453340-0202c980-30d0-11eb-86b9-c2c44c8fbfea.png" alt="alt text" width="48" height="48">](https://visualstudio.microsoft.com/)
 [<img src="https://user-images.githubusercontent.com/9213496/100453343-029b6000-30d0-11eb-9f35-ddceaa73e0b1.png" alt="alt text" width="48" height="48">](https://visualstudio.microsoft.com/)
 [<img src="https://user-images.githubusercontent.com/9213496/100453345-0333f680-30d0-11eb-9316-6156965bbc84.png" alt="alt text" width="48" height="48">](https://visualstudio.microsoft.com/)
-[<img src="https://user-images.githubusercontent.com/32209952/133531215-bc4dcecf-0faa-4937-b65c-11a834e78366.png" alt="alt text" width="40" height="50">](https://reactnative.dev/)
+[<img src="https://user-images.githubusercontent.com/32209952/133531215-bc4dcecf-0faa-4937-b65c-11a834e78366.png" alt="alt text" width="44" height="50">](https://reactnative.dev/)
 [<img src="https://user-images.githubusercontent.com/9213496/100453354-04652380-30d0-11eb-87de-a577acd2f62f.png" alt="alt text" width="48" height="48">](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0)
