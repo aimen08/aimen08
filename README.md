@@ -1,9 +1,9 @@
-h1 align="center"> Hi There 👋 I'm Aymen Hamza</h1>
+<h1 align="center"> Hi There 👋 I'm Aymen Hamza</h1>
 
 
 
 
-- 👩‍💻 I’m currently Developing Mobile Apps with React Native and Jetpack Compose   Windows Apps with C# WinUI 3 and WPF
+- 👩‍💻 I’m currently Developing Mobile Apps with React Native and Jetpack Compose.
 - 👨‍🏫 I also do Windows Apps with WPF using C# and XAML
 - 🤙 How to reach me: 
 
