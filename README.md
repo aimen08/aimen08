@@ -1,16 +1,21 @@
-### Hi there 👋
+h1 align="center"> Hi There 👋 I'm Aymen Hamza</h1>
 
-<!--
-**aimen08/aimen08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👩‍💻 I’m currently Developing Mobile Apps with React Native and Jetpack Compose   Windows Apps with C# WinUI 3 and WPF
+- 👨‍🏫 I also do Windows Apps with WPF using C# and XAML
+- 🤙 How to reach me: 
+
+     :heavy_check_mark: Email: aimen_hamza@hotmail.com, haydaaymen@gmail.com
+
+     :heavy_check_mark: Telegram: [@aymenham](https://t.me/aymenham) 
+
+<a href="https://github.com/aimen08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen08&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/aimen08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen08&layout=compact&langs_count=12&hide=html,css" />
+</a>
+<br>
+<br>
