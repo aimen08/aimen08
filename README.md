@@ -12,10 +12,10 @@
      :heavy_check_mark: Telegram: [@aymenham](https://t.me/aymenham) 
 
 <a href="https://github.com/aimen08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymen08&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimen08&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/aimen08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen08&layout=compact&langs_count=12&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimen08&layout=compact&langs_count=12&hide=html,css" />
 </a>
 <br>
 <br>
