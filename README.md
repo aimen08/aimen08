@@ -3,7 +3,7 @@
 <br>
 
 
-- 👩‍💻 I’m currently Developing Mobile Apps with React Native and Jetpack Compose.
+- 👩‍💻 I’m currently Developing Mobile Apps with React Native ,Jetpack Compose and Flutter.
 - 👨‍🏫 I also do Windows Apps with WPF using C# and XAML
 - 🤙 How to reach me: 
 
