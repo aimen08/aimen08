@@ -17,24 +17,24 @@ export default function Landing() {
 
   // const searchInputRef = useRef("");
 
-  let [result,setResult] = useContext(ItunesContext);
+  let [result,setResult,searchedText,setSearchedText] = useContext(ItunesContext);
    const [searchTerm, setSearchTerm] = useState(''); 
   let navigate = useNavigate();
   
   const search = async() => {
     
     let fullPath = `${API_URL}${searchTerm}`;
- 
+    
    
     let response = await fetch(fullPath).then((res)=>res.json()).then((json)=>{
       setResult(json)
-      
-      navigate(`/result`);
     }).catch(()=>{
 
       console.log("error fetching !checkSearch function");
     })
 
+      setSearchedText(searchTerm);
+      navigate(`/result`);
     // axios.get(API_URL).then((response)=>{
     //     console.log(response.data.result);
     // }).catch(()=>{
