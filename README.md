@@ -11,6 +11,8 @@
      :heavy_check_mark: Email: aimen_hamza@hotmail.com
      
      :heavy_check_mark: website: [aymenhamza.com](https://aymenhamza.com/) 
+     
+     :heavy_check_mark: blog: [aymen hamza](https://blog.aymenhamza.com/) 
 
      :heavy_check_mark: Telegram: [@aymenham](https://t.me/aymenham) 
 
