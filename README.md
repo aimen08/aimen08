@@ -3,7 +3,7 @@
 <br>
 
 
-- 👩‍💻 I’m currently Developing Mobile Apps with React Native ,Jetpack Compose and Flutter.
+- 👩‍💻 I’m currently Developing web and mobile appilications with React, React Native.
 
 
 - 🤙 How to reach me: 
