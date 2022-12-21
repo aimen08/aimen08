@@ -1,25 +1,16 @@
-<h1 align="center"> Hi There 👋 I'm Aymen Hamza</h1>
 
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+   <img src="https://streak-stats.demolab.com/?user=aimen08&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117ff">
+  </a>
+</p>
 
-
-- 👩‍💻 I’m currently Developing web and mobile appilications with React, React Native.
-
-
-- 🤙 How to reach me: 
-
-     :heavy_check_mark: Email: aimen_hamza@hotmail.com
-     
-     :heavy_check_mark: website: [aymenhamza.com](https://aymenhamza.com/) 
-     
-     :heavy_check_mark: blog: [aymen hamza](https://blog.aymenhamza.com/) 
-
-     :heavy_check_mark: Telegram: [@aymenham](https://t.me/aymenham) 
-
-
-<a href="https://github.com/aimen08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimen08&layout=compact&langs_count=12&hide=html,css" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimen08&hide_title=true&theme=github_dark&border_radius=10&layout=default&langs_count=5&line_height=28&hide_border=true" />
 </a>
-<br>
-<br>
 
+<a href="https://discord.com/users/227007092618166282">
+  <img src="https://lanyard.cnrad.dev/api/227007092618166282?bg=0d1117">
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2500&vCenter=true&width=200&lines=Linux+Enthusiast;Full+Stack+Developer;TypeScript+Evangelist)](https://git.io/typing-svg)
