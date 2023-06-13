@@ -5,9 +5,8 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimen08&hide_title=true&theme=github_dark&border_radius=10&layout=default&langs_count=5&line_height=28&hide_border=true" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimen08&random=12345)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://discord.com/users/227007092618166282">
   <img src="https://lanyard.cnrad.dev/api/227007092618166282?bg=0d1117">
