@@ -5,7 +5,7 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimen08&random=12345)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimen08&theme=github_dark)
 
 
 <a href="https://discord.com/users/227007092618166282">
